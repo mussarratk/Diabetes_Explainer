@@ -16,4 +16,10 @@
 ![image](https://github.com/user-attachments/assets/cc32525a-ab5a-42b7-b208-00eb64e751ff)
 ![image](https://github.com/user-attachments/assets/c3fb2398-fc46-4c5f-a156-5fbd470ece54)
 
+
+--------------------------------
+# Model.pkl loaded and checked
+![image](https://github.com/user-attachments/assets/92019b44-0c3e-4ccf-92f9-d6786effe765)
+
+-----------------------------------------------
 </detail>
