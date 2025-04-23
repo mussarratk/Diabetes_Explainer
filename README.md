@@ -19,7 +19,8 @@
 
 --------------------------------
 # Model.pkl loaded and checked
-![image](https://github.com/user-attachments/assets/92019b44-0c3e-4ccf-92f9-d6786effe765)
+![image](https://github.com/user-attachments/assets/2eb5c6d0-4007-42f0-994a-814f5793fa5f)
+
 
 -----------------------------------------------
 </detail>
