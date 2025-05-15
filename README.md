@@ -1,5 +1,15 @@
 # Diabetes_Explainer
 
+<details>
+
+Correlation describes the degree to which two variables move together.
+
+- Positive correlation: Variables move in the same direction. When one increases, the other tends to increase; when one decreases, the other tends to decrease.
+- Negative correlation: Variables move in opposite directions. When one increases, the other tends to decrease, and vice versa.
+Crucially, while correlation measures the association between variables, it does not imply causation. A third, unmeasured factor (a lurking variable) could be influencing both variables, creating the observed coordination.
+
+</details>
+
 <detail>
   
 ![image](https://github.com/user-attachments/assets/a6fad28c-c943-4e45-9941-4ec6b74eca87)
